@@ -62,7 +62,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**The Bat and Ball** (October \'16 - August \'17)
+**The Bat and Ball** (October \'16 - August \'17)   
 *Front and back of house*
 - Integral in maintaining very high standards (pub of the year within Fuller's)
 - Developed management and communication skills to a high level
@@ -74,7 +74,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - 2 week internship undertaking projects including building an MS Excel database
 - Valuable experience of working independently and in a small office
 
-**Cambridge Associates** (July - August \'15) 
+**Cambridge Associates** (July - August \'15)   
 *Intern*
 - 2 week internship comprising many fund manager meetings
 - Completed a week of formal training with incoming employees
