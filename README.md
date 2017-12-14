@@ -1,29 +1,24 @@
 ## Hugo Sykes
 
-I'm a Maths and Physics graduate who has spent a year in hospitality eagerly awaiting the opportunity
-to make something of my degree. Now I'm enrolled onto one of the most demanding and competitive
-coding bootcamps in the world: Makers Academy. I discovered coding whilst at university, but only
-recently have I become a fanatic.
+I'm a Maths and Physics graduate who has spent a year in hospitality eagerly awaiting the opportunity to make something of my degree. Now I've completed the most demanding and competitive of coding bootcamps: Makers Academy. I discovered coding whilst at university, but only recently have I become a fanatic.
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a highly motivated and enthusiastic full-stack developer looking for a growth oriented environment in which to keep up the pace of my learning.
 
 ## Skills
 
 #### Analysis
 
-Throughout years of studying and using Mathematics, I have developed my skills of analysis in general.
-I instinctively spot trends and recognise patterns. I am then naturally drawn to their significance
-and the understanding that can be inferred from in-depth analysis of these patterns.
+Throughout years of studying and using Mathematics, I have developed my skills of analysis in general. I instinctively spot trends and recognise patterns. I am then naturally drawn to their significance and the deeper understanding to be inferred.
 
 Having done work experience and internships in the financial sector, I have developed an understanding of the kind of analysis which benefits financial institutions and the myriad ways in which they attempt to develop it.
 
-
+<!-- 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - Experience
 - Achievements
-- Evidence
-
+- Evidence -->
+<!-- 
 #### Another Skill
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
@@ -31,7 +26,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- A link to some on-line evidence (blogs, videos, articles, etc.) -->
 
 ## Education
 
@@ -66,7 +61,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *Front and back of house*
 - Integral in maintaining very high standards (pub of the year within Fuller's)
 - Developed management and communication skills to a high level
-- Took on senior role in running the business both front and back of house
+- Took on a senior role in running the business both front and back of house
 - Duties included stock management, opening & closing procedures and cash management
 
 **Strabens Hall** (August \'16)   
