@@ -10,43 +10,30 @@ I am a highly motivated and enthusiastic full-stack developer looking for a grow
 
 Throughout years of studying and using Mathematics, I have developed my skills of analysis in general. I instinctively spot trends and recognise patterns. I am then naturally drawn to their significance and the deeper understanding to be inferred.
 
-Having done work experience and internships in the financial sector, I have developed an understanding of the kind of analysis which benefits financial institutions and the myriad ways in which they attempt to develop it.
+Having done work experience and internships in the financial sector, I have developed an understanding of the kind of analysis which benefits financial institutions and the myriad ways in which they attempt to develop it. This is transferrable to any data-driven analysis and I am keen to develop my skills in this area.
 
-<!-- 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Programming
 
-- Experience
-- Achievements
-- Evidence -->
-<!-- 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.) -->
+Learning at Maker's Academy has transformed me into a junior developer who's evangelical about test-driven development and dedicated to furthering my learning and keeping up the pace of acquisition of coding languages, good practices and architectures.
 
 ## Education
 
 #### Makers Academy (August - December \'17)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
-- OOP, TDD, MVC, DDD
+- Curious and passionate about code and learning new languages and architectures
+- Fast, independent learner
+- Evangelical about testing as best-practice
+- Great collaborator, pair programmer and team player
+- OOP, TDD, BDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, Swift, Xcode, Node, JQuery
+- RSpec, Capybara, Jasmine, Zombie, Mocha, Chai
 
 #### Warwick University (September \'13 - June \'16)
 
 - Mathematics and Physics
 - 2:2
 - Beginners Spanish - conversational standard
-- Beginners Java - introductory course
 
 #### Bryanston School (September \'07 - July \'12)
 
@@ -57,7 +44,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**The Bat and Ball** (October \'16 - August \'17)   
+**The Bat and Ball** (October '16 - August '17)   
 *Front and back of house*
 - Integral in maintaining very high standards (pub of the year within Fuller's)
 - Developed management and communication skills to a high level
