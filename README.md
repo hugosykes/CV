@@ -40,8 +40,6 @@ Learning at Maker's Academy has transformed me into a junior developer who's eva
 - A Levels - 4 A*s - Mathematics, Further Mathematics, Physics and Chemistry
 - GCSEs - 5 A*s, 4 As and 1 B
 
-#### Any other qualifications
-
 ## Experience
 
 **The Bat and Ball** (October '16 - August '17)   
