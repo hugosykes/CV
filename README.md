@@ -41,20 +41,30 @@ Learning at Maker's Academy has transformed me into a junior developer who's eva
 - GCSEs - 5 A*s, 4 As and 1 B
 
 ## Experience
+### **Infinity Works** (January '18 - Present)
+*Associate Consultant/Software Developer*
 
-**The Bat and Ball** (October '16 - August '17)   
+**Projects:**
+
+*NHS Digital, 2 months*
+- Tech: Java, Freemarker, HTML, CSS, JavaScript, Scala, Hippo CMS
+- Developed new area of the NHS Digital website (National Indicator Library)
+- Good use of Agile methodologies and first proper introduction to DevOps
+- Saw the project from inception to MVP and involved at every stage
+
+### **The Bat and Ball** (October '16 - August '17)   
 *Front and back of house*
 - Integral in maintaining very high standards (pub of the year within Fuller's)
 - Developed management and communication skills to a high level
 - Took on a senior role in running the business both front and back of house
 - Duties included stock management, opening & closing procedures and cash management
 
-**Strabens Hall** (August \'16)   
+### **Strabens Hall** (August \'16)   
 *Intern*  
 - 2 week internship undertaking projects including building an MS Excel database
 - Valuable experience of working independently and in a small office
 
-**Cambridge Associates** (July - August \'15)   
+### **Cambridge Associates** (July - August \'15)   
 *Intern*
 - 2 week internship comprising many fund manager meetings
 - Completed a week of formal training with incoming employees
