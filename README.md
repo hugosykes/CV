@@ -18,31 +18,39 @@ Learning at Maker's Academy has transformed me into a junior developer who's eva
 
 ## Education
 
-#### Makers Academy (August - December \'17)
+#### Makers Academy (August - December '17)
 
+- Prestigious coding bootcamp
 - Curious and passionate about code and learning new languages and architectures
 - Fast, independent learner
 - Evangelical about testing as best-practice
-- Great collaborator, pair programmer and team player
+- A great collaborator, pair programmer and team player
 - OOP, TDD, BDD
 - Agile/XP
 - Ruby, Rails, JavaScript, Swift, Xcode, Node, JQuery
 - RSpec, Capybara, Jasmine, Zombie, Mocha, Chai
 
-#### Warwick University (September \'13 - June \'16)
+#### Warwick University (September '13 - June '16)
 
 - Mathematics and Physics
-- 2:2
 - Beginners Spanish - conversational standard
 
-#### Bryanston School (September \'07 - July \'12)
+#### Bryanston School (September '07 - July '12)
 
 - A Levels - 4 A*s - Mathematics, Further Mathematics, Physics and Chemistry
 - GCSEs - 5 A*s, 4 As and 1 B
 
+## Certification
+
+##### AWS Solutions Architect Associate ()
+
 ## Experience
-### **Infinity Works** (January '18 - Present)
-*Associate Consultant/Software Developer*
+### Infinity Works - Consultant Software Developer/Data Engineer (January '18 - Present)
+*Associate Consultant (January '18 - April '19)*
+
+*Consultant (April '19 - April '21)*
+
+*Senior Consultant (April '21 - Present)*
 
 **Projects:**
 
@@ -52,6 +60,22 @@ Learning at Maker's Academy has transformed me into a junior developer who's eva
 - Good use of Agile methodologies and first proper introduction to DevOps
 - Saw the project from inception to MVP and involved at every stage
 
+*T-Rowe Price, 1 month*
+- Very brief introduction to terraform and containers
+
+*Sainsbury's, Digital Nectar - Apps/Frontend - Backend Engineer, 1 year*
+- Tech: Java, Kubernetes, React, Microservices, Go, JavaScript
+- AWS: S3, SQS, Elasticsearch, EC2, CloudFormation, RDS, DynamoDB
+- Built, tested and scaled microservices backing the Digital Nectar proposition
+- Agile squad
+
+*Sainsbury's, Digital Nectar - Offers Generation - Senior Data Engineer*
+- Tech: Python, Spark (pyspark), Airflow, SQL, Terraform, Docker
+- AWS: S3, EMR, EC2, RDS, Elasticsearch
+- Built and managed Big Data platform generating offers for the Nectar apps
+- Optimised very complicated workflow
+- Re-orchestrated away from custom solution to using Airflow
+
 ### **The Bat and Ball** (October '16 - August '17)   
 *Front and back of house*
 - Integral in maintaining very high standards (pub of the year within Fuller's)
@@ -59,12 +83,12 @@ Learning at Maker's Academy has transformed me into a junior developer who's eva
 - Took on a senior role in running the business both front and back of house
 - Duties included stock management, opening & closing procedures and cash management
 
-### **Strabens Hall** (August \'16)   
+### **Strabens Hall** (August '16)   
 *Intern*  
 - 2 week internship undertaking projects including building an MS Excel database
 - Valuable experience of working independently and in a small office
 
-### **Cambridge Associates** (July - August \'15)   
+### **Cambridge Associates** (July - August '15)   
 *Intern*
 - 2 week internship comprising many fund manager meetings
 - Completed a week of formal training with incoming employees
