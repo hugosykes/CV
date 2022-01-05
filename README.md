@@ -1,20 +1,20 @@
 ## Hugo Sykes
 
-I'm a Maths and Physics graduate who has spent a year in hospitality eagerly awaiting the opportunity to make something of my degree. Now I've completed the most demanding and competitive of coding bootcamps: Makers Academy. I discovered coding whilst at university, but only recently have I become a fanatic.
-
-I am a highly motivated and enthusiastic full-stack developer looking for a growth oriented environment in which to keep up the pace of my learning.
+I'm a highly motivated and enthusiastic data engineer looking for an environment of growth in which to keep up the pace of my learning.
+Having come across coding at university studying Maths and Physics, I embarked upon a journey into technology starting with the Makers coding bootcamp.
+My latest step has been data engineering - a discipline with the potential to transform businesses from passive observers to active decision makers.
 
 ## Skills
 
 #### Analysis
 
-Throughout years of studying and using Mathematics, I have developed my skills of analysis in general. I instinctively spot trends and recognise patterns. I am then naturally drawn to their significance and the deeper understanding to be inferred.
-
-Having done work experience and internships in the financial sector, I have developed an understanding of the kind of analysis which benefits financial institutions and the myriad ways in which they attempt to develop it. This is transferrable to any data-driven analysis and I am keen to develop my skills in this area.
+Throughout years of studying and using Mathematics, and my experience as a data engineer, I have developed both general and highly specialised analysis skills and instincts.
+I intuitively spot trends and recognise patterns, and am naturally drawn to their underlying significance and the potential value hidden within.
 
 #### Programming
 
-Learning at Maker's Academy has transformed me into a junior developer who's evangelical about test-driven development and dedicated to furthering my learning and keeping up the pace of acquisition of coding languages, good practices and architectures.
+From as early as possible, learning to code at Makers Academy drove me towards adopting best practices and appreciating the value of a well functioning team.
+A dedication to furthering, and keeping up the pace of, my learning has stood me well when joining new projects and adapting to new environments.
 
 ## Education
 
@@ -25,10 +25,8 @@ Learning at Maker's Academy has transformed me into a junior developer who's eva
 - Fast, independent learner
 - Evangelical about testing as best-practice
 - A great collaborator, pair programmer and team player
-- OOP, TDD, BDD
-- Agile/XP
-- Ruby, Rails, JavaScript, Swift, Xcode, Node, JQuery
-- RSpec, Capybara, Jasmine, Zombie, Mocha, Chai
+- Agile, XP, TDD
+- Ruby, Rails, JavaScript, Xcode, Node, JQuery, RSpec, Capybara, Jasmine, Mocha & Chai
 
 #### Warwick University (September '13 - June '16)
 
@@ -40,9 +38,9 @@ Learning at Maker's Academy has transformed me into a junior developer who's eva
 - A Levels - 4 A*s - Mathematics, Further Mathematics, Physics and Chemistry
 - GCSEs - 5 A*s, 4 As and 1 B
 
-## Certification
+## Certifications
 
-##### AWS Solutions Architect Associate ()
+- AWS Solutions Architect Associate (February '21)
 
 ## Experience
 ### Infinity Works - Consultant Software Developer/Data Engineer (January '18 - Present)
@@ -69,12 +67,21 @@ Learning at Maker's Academy has transformed me into a junior developer who's eva
 - Built, tested and scaled microservices backing the Digital Nectar proposition
 - Agile squad
 
-*Sainsbury's, Digital Nectar - Offers Generation - Senior Data Engineer*
+*Sainsbury's, Digital Nectar - Offers Generation - Senior Data Engineer, 2.5 years*
 - Tech: Python, Spark (pyspark), Airflow, SQL, Terraform, Docker
 - AWS: S3, EMR, EC2, RDS, Elasticsearch
 - Built and managed Big Data platform generating offers for the Nectar apps
 - Optimised very complicated workflow
 - Re-orchestrated away from custom solution to using Airflow
+- Presided over generation of more than 6bn personalised offers
+- Managed and mentored junior engineers
+- Regularly ran agile ceremonies
+- Helped foster a culture of cross-functional collaboration between data scientists and engineers
+
+*Doc Martens - Data Warehousing - Senior Data Engineer, 1 month - present*
+- Tech: Azure, Azure Data Factory, Snowflake (+ unclear at present stage)
+- Building a data warehouse to enable business transformation to a data-driven architecture
+- Managing client relationship, expectations and technical direction
 
 ### **The Bat and Ball** (October '16 - August '17)   
 *Front and back of house*
