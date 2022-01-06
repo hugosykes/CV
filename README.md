@@ -43,7 +43,7 @@ A dedication to furthering, and keeping up the pace of, my learning has stood me
 - AWS Solutions Architect Associate (February '21)
 
 ## Experience
-### Infinity Works - Consultant Software Developer/Data Engineer (January '18 - Present)
+### Infinity Works (IW) - Consultant Software Developer/Data Engineer (January '18 - Present)
 *Associate Consultant (January '18 - April '19)*
 
 *Consultant (April '19 - April '21)*
@@ -82,6 +82,12 @@ A dedication to furthering, and keeping up the pace of, my learning has stood me
 - Tech: Azure, Azure Data Factory, Snowflake (+ unclear at present stage)
 - Building a data warehouse to enable business transformation to a data-driven architecture
 - Managing client relationship, expectations and technical direction
+
+*Extra*
+- In my time at IW, I have given a number of talks:
+   - InfoSec talk to IW Academy
+   - Data Security also to Academy
+   - Co-presented *Women In Data* talk at Sainsbury's about effective collaboration between data scientists and engineers 
 
 ### **The Bat and Ball** (October '16 - August '17)   
 *Front and back of house*
