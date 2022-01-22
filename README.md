@@ -2,7 +2,8 @@
 
 I'm a highly motivated and enthusiastic data engineer looking for an environment of growth in which to keep up the pace of my learning.
 Having come across coding at university studying Maths and Physics, I embarked upon a journey into technology starting with the Makers coding bootcamp.
-My latest step has been data engineering - a discipline with the potential to transform businesses from passive observers to active decision makers.
+I have delved into front and back-end web development, massively scalable microservices and most recently data engineering: building resilient pipelines to run machine learning algorithms at huge scale.
+An engineer passionate about ownership and quality in the full software lifecycle of inception to production, I enjoy being able to ensure consistent delivery quality throughout.
 
 ## Skills
 
@@ -73,13 +74,13 @@ A dedication to furthering, and keeping up the pace of, my learning has stood me
 - Built and managed Big Data platform generating offers for the Nectar apps
 - Optimised very complicated workflow
 - Re-orchestrated away from custom solution to using Airflow
-- Presided over generation of more than 6bn personalised offers
+- Presided over generation of more than 6bn personalised offers!
 - Managed and mentored junior engineers
 - Regularly ran agile ceremonies
 - Helped foster a culture of cross-functional collaboration between data scientists and engineers
 
 *Doc Martens - Data Warehousing - Senior Data Engineer, 1 month - present*
-- Tech: Azure, Azure Data Factory, Snowflake (+ unclear at present stage)
+- Tech: Snowflake; Azure Data Factory, Functions, Logic Apps; (+ unclear at present stage)
 - Building a data warehouse to enable business transformation to a data-driven architecture
 - Managing client relationship, expectations and technical direction
 
