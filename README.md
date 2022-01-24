@@ -1,9 +1,13 @@
 ## Hugo Sykes
 
+
 I'm a highly motivated and enthusiastic data engineer looking for an environment of growth in which to keep up the pace of my learning.
 Having come across coding at university studying Maths and Physics, I embarked upon a journey into technology starting with the Makers coding bootcamp.
+
+
 I have delved into front and back-end web development, massively scalable microservices and most recently data engineering: building resilient pipelines to run machine learning algorithms at huge scale.
 An engineer passionate about ownership and quality in the full software lifecycle of inception to production, I enjoy being able to ensure consistent delivery quality throughout.
+
 
 ## Skills
 
@@ -16,6 +20,7 @@ I intuitively spot trends and recognise patterns, and am naturally drawn to thei
 
 From as early as possible, learning to code at Makers Academy drove me towards adopting best practices and appreciating the value of a well functioning team.
 A dedication to furthering, and keeping up the pace of, my learning has stood me well when joining new projects and adapting to new environments.
+
 
 ## Education
 
@@ -39,9 +44,11 @@ A dedication to furthering, and keeping up the pace of, my learning has stood me
 - A Levels - 4 A*s - Mathematics, Further Mathematics, Physics and Chemistry
 - GCSEs - 5 A*s, 4 As and 1 B
 
+
 ## Certifications
 
 - AWS Solutions Architect Associate (February '21)
+
 
 ## Experience
 ### Infinity Works (IW) - Consultant Software Developer/Data Engineer (January '18 - Present)
