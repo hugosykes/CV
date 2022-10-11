@@ -4,10 +4,10 @@
 I'm a highly motivated and enthusiastic data engineer looking for an environment of growth in which to keep up the pace of my learning.
 Having come across coding at university studying Maths and Physics, I embarked upon a journey into technology starting with the Makers coding bootcamp.
 
-
 I have delved into front and back-end web development, massively scalable microservices and most recently data engineering: building resilient pipelines to run machine learning algorithms at huge scale.
 An engineer passionate about ownership and quality in the full software lifecycle of inception to production, I enjoy being able to ensure consistent delivery quality throughout.
 
+An avid chess player and keen pianist, I'm often found quietly analysing a position, practicing a new piece or playing one of many board games with friends.   
 
 ## Skills
 
@@ -51,7 +51,17 @@ A dedication to furthering, and keeping up the pace of, my learning has stood me
 
 
 ## Experience
-### Infinity Works (IW) - Consultant Software Developer/Data Engineer (January '18 - Present)
+### Go City (formerly Leisure Pass Group) - Senior Data Engineer (May '22 - Present)
+
+- Tech: Python, Airflow, Kubernetes, Terraform, Hitachi Pentaho
+- AWS: Redshift, S3, RDS, EKS
+- Building and managing data pipelines using Airflow to facilitate reporting and operational needs
+- Aiding design and implementation of data warehouse rebuild (Redshift)
+- Guiding and mentoring more junior engineers
+- Actively participating in COPs; Medium article written on local Airflow development setup
+
+
+### Infinity Works (IW) - Consultant Software Developer/Data Engineer (January '18 - April '22)
 *Associate Consultant (January '18 - April '19)*
 
 *Consultant (April '19 - April '21)*
@@ -86,7 +96,7 @@ A dedication to furthering, and keeping up the pace of, my learning has stood me
 - Regularly ran agile ceremonies
 - Helped foster a culture of cross-functional collaboration between data scientists and engineers
 
-*Doc Martens - Data Warehousing - Senior Data Engineer, 1 month - present*
+*Doc Martens - Data Warehousing - Senior Data Engineer, 4 months*
 - Tech: Snowflake; Azure Data Factory, Functions, Logic Apps; (+ unclear at present stage)
 - Building a data warehouse to enable business transformation to a data-driven architecture
 - Managing client relationship, expectations and technical direction
