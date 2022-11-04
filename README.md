@@ -97,7 +97,7 @@ A dedication to furthering, and keeping up the pace of, my learning has stood me
 - Helped foster a culture of cross-functional collaboration between data scientists and engineers
 
 *Doc Martens - Data Warehousing - Senior Data Engineer, 4 months*
-- Tech: Snowflake; Azure Data Factory, Functions, Logic Apps; (+ unclear at present stage)
+- Tech: Snowflake; Azure Data Factory, Functions, Logic Apps
 - Building a data warehouse to enable business transformation to a data-driven architecture
 - Managing client relationship, expectations and technical direction
 
