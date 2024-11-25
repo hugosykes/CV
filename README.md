@@ -51,14 +51,22 @@ A dedication to furthering, and keeping up the pace of, my learning has stood me
 
 
 ## Experience
-### Go City (formerly Leisure Pass Group) - Senior Data Engineer (May '22 - Present)
+### Go City (formerly Leisure Pass Group) - (April '23 - Present)
+*Senior Data Engineer (May '22 - April '23)*
 
-- Tech: Python, Airflow, Kubernetes, Terraform, Hitachi Pentaho
-- AWS: Redshift, S3, RDS, EKS
+*Software Engineering Manager, Data (April '23 - Present)*
+
+- Tech: Python, SQL, dbt, Airflow, Kubernetes, Terraform, OpenAI API, MLflow
+- AWS: Redshift, S3, RDS Postgres, EKS, DocumentDB
 - Building and managing data pipelines using Airflow to facilitate reporting and operational needs
 - Aiding design and implementation of data warehouse rebuild (Redshift)
 - Guiding and mentoring more junior engineers
-- Actively participating in COPs; Medium article written on local Airflow development setup
+- Actively participating in COPs; couple of Medium article written on Airflow local development and ephemeral environments
+
+- Managed and mentored team of 2 data engineers & 1 ML engineer
+- Presided over ChatGPT pipelines for large-scale content generation & AI-driven itinerary generation service
+- Managed large scale transformation project away from raw SQL transformations with Hitachi Pentaho to dbt & Airflow
+- Implementing CDP rollout with Segment/Braze/Amplitude to revolutionise customer engagement
 
 
 ### Infinity Works (IW) - Consultant Software Developer/Data Engineer (January '18 - April '22)
