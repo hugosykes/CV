@@ -51,7 +51,7 @@ A dedication to furthering, and keeping up the pace of, my learning has stood me
 
 
 ## Experience
-### Go City (formerly Leisure Pass Group) - (April '23 - Present)
+### Go City (formerly Leisure Pass Group) - (May '22 - Present)
 *Senior Data Engineer (May '22 - April '23)*
 
 *Software Engineering Manager, Data (April '23 - Present)*
@@ -62,7 +62,6 @@ A dedication to furthering, and keeping up the pace of, my learning has stood me
 - Aiding design and implementation of data warehouse rebuild (Redshift)
 - Guiding and mentoring more junior engineers
 - Actively participating in COPs; couple of Medium article written on Airflow local development and ephemeral environments
-
 - Managed and mentored team of 2 data engineers & 1 ML engineer
 - Presided over ChatGPT pipelines for large-scale content generation & AI-driven itinerary generation service
 - Managed large scale transformation project away from raw SQL transformations with Hitachi Pentaho to dbt & Airflow
