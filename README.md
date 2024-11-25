@@ -21,6 +21,11 @@ I intuitively spot trends and recognise patterns, and am naturally drawn to thei
 From as early as possible, learning to code at Makers Academy drove me towards adopting best practices and appreciating the value of a well functioning team.
 A dedication to furthering, and keeping up the pace of, my learning has stood me well when joining new projects and adapting to new environments.
 
+#### Management
+
+While at Go City, managing a team for the first time, I have developed a calm and thoughtful style of leadership based on trust and respect for the members of my squad.
+I have relished the opportunity to help shape, guide and support the careers of my engineers whilst giving them space to flourish independently.
+
 
 ## Education
 
@@ -66,6 +71,7 @@ A dedication to furthering, and keeping up the pace of, my learning has stood me
 - Presided over ChatGPT pipelines for large-scale content generation & AI-driven itinerary generation service
 - Managed large scale transformation project away from raw SQL transformations with Hitachi Pentaho to dbt & Airflow
 - Implementing CDP rollout with Segment/Braze/Amplitude to revolutionise customer engagement
+- Played pivotal role in planning and development of data iniatives and strategy alongside regular feature work and maintenance
 
 
 ### Infinity Works (IW) - Consultant Software Developer/Data Engineer (January '18 - April '22)
