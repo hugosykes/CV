@@ -1,7 +1,7 @@
 ## Hugo Sykes
 
 
-I'm a highly motivated and enthusiastic data engineer looking for an environment of growth in which to keep up the pace of my learning.
+I'm a highly motivated and enthusiastic data engineering manager looking for an environment of growth in which to keep up the pace of my learning.
 Having come across coding at university studying Maths and Physics, I embarked upon a journey into technology starting with the Makers coding bootcamp.
 
 I have delved into front and back-end web development, massively scalable microservices and most recently data engineering: building resilient pipelines to run machine learning algorithms at huge scale.
